@@ -1,5 +1,3 @@
-👋 Hello World! I'm Naima Rahman, a passionate beginner in the vast world of coding, technology and design.
-
 📚 Currently studying Software Engineering and eager to explore the endless possibilities of the tech universe.
 
 💻 I'm diving into the world of coding and software development, working on projects to enhance my skills. My journey involves learning new languages, frameworks, and tools.
