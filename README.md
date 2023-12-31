@@ -9,6 +9,6 @@
 🌱 Learning: Java, python, c++, html css
 
 
-📫 Let's connect! I'm open to mentorship, collaboration, and friendly conversations. Reach me at naimarahman006@gmail.com 
+📫 Let's connect! Reach me at naimarahman006@gmail.com 
 
 Happy coding! ✨
