@@ -184,4 +184,4 @@ I'm continuously strengthening my full-stack development skills through practica
 
 <sub>Building practical software. Learning continuously. Improving with every project.</sub>
 
-</div>
+</div> 
