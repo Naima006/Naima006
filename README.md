@@ -127,11 +127,11 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Naima's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Naima's GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Naima's Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Naima's Most Used Languages" />
 
 </div>
 
@@ -153,7 +153,7 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naima006&theme=tokyo-night&hide_border=true&area=true&custom_title=Development%20Activity%20%7C%20June%202026%20-%20Present" alt="Naima's Development Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naima006&theme=tokyo-night&hide_border=true&area=true" alt="Naima's Development Activity" />
 
 </div>
 
