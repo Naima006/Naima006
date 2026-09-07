@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    Software engineering student focused on building intuitive, responsive web interfaces and mobile apps.
+  
   </p>
 
   <p align="center">
