@@ -146,18 +146,11 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naima006&theme=tokyonight" alt="GitHub Profile Details" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Top Languages -->
 <a href="https://github.com/Naima006">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naima006&theme=tokyonight" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<!-- Most Used Languages -->
-<a href="https://github.com/Naima006">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=github_dark&hide_border=false&cache_seconds=1800" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
