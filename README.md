@@ -127,33 +127,28 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Naima's GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Naima's Most Used Languages" />
+<p>
+  <a href="https://github.com/Naima006"><img src="https://img.shields.io/github/followers/Naima006?style=flat-square&color=38BDF8" alt="Followers" /></a>
+  <a href="https://github.com/Naima006/Naima006"><img src="https://img.shields.io/github/last-commit/Naima006/Naima006?style=flat-square&color=0284C7" alt="Last Commit" /></a>
+  <a href="https://github.com/Naima006?tab=repositories"><img src="https://img.shields.io/badge/Repositories-29-0284C7?style=flat-square" alt="Repositories" /></a>
+</p>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Overview
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naima006&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Naima's GitHub Contribution Streak" />
+<!-- Contribution heatmap (reliable service) -->
+<img src="https://ghchart.rshah.org/Naima006" alt="Contribution chart" />
 
-</div>
+<br/>
 
-> **Activity focus:** June 2026 → Present
-
----
-
-## 📅 Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naima006&theme=tokyo-night&hide_border=true&area=true" alt="Naima's Development Activity" />
+<a href="https://github.com/Naima006">
+  <img src="https://img.shields.io/badge/View%20My%20GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 
 </div>
 
