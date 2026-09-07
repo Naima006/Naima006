@@ -141,8 +141,23 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <div align="center">
 
-<!-- Contribution heatmap (reliable service) -->
-<img src="https://ghchart.rshah.org/Naima006" alt="Contribution chart" />
+<!-- GitHub Contribution Heatmap -->
+<img src="https://ghchart.rshah.org/38BDF8/Naima006" alt="GitHub Contribution Heatmap" width="100%" />
+
+<br/>
+
+<!-- GitHub Activity Stats -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naima006&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=161B22&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" alt="Contribution Activity Timeline" />
+
+<br/>
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D" alt="GitHub Stats" />
+
+<br/>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" alt="Most Used Languages" />
 
 <br/>
 
@@ -184,4 +199,4 @@ I'm continuously strengthening my full-stack development skills through practica
 
 <sub>Building practical software. Learning continuously. Improving with every project.</sub>
 
-</div> 
+</div>
