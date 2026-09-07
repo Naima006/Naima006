@@ -141,14 +141,16 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <div align="center">
 
-<!-- GitHub Contribution Heatmap - Reliable Service -->
-<img src="https://ghchart.rshah.org/38BDF8/Naima006" alt="Contribution Heatmap" style="max-width: 100%;" />
-
-<br/>
-
-<!-- GitHub Stats Card -->
+<!-- Stats Summary -->
 <a href="https://github.com/Naima006">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=github_dark&hide_border=false&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naima006&theme=tokyonight" alt="GitHub Profile Details" />
+</a>
+
+<br/><br/>
+
+<!-- Top Languages -->
+<a href="https://github.com/Naima006">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naima006&theme=tokyonight" alt="Top Languages" />
 </a>
 
 <br/><br/>
