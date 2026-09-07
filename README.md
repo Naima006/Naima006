@@ -141,26 +141,28 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <div align="center">
 
-<!-- Stats Summary -->
-<a href="https://github.com/Naima006">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naima006&theme=tokyonight" alt="GitHub Profile Details" />
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Naima006">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naima006&theme=tokyonight" alt="GitHub Profile Details" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Naima006">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naima006&theme=tokyonight" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/Naima006">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naima006&theme=tokyonight" alt="Top Languages" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/Naima006">
   <img src="https://img.shields.io/badge/View%20My%20GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 </div>
-
 ---
 
 ## 📚 Currently Growing
