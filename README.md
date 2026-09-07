@@ -148,17 +148,17 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/Naima006">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="GitHub Stats" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=github_dark&hide_border=false&cache_seconds=1800" alt="GitHub Stats" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/Naima006">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=github_dark&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Most Used Languages" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=github_dark&hide_border=false&cache_seconds=1800" alt="Most Used Languages" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Naima006">
   <img src="https://img.shields.io/badge/View%20My%20GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
