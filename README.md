@@ -1,14 +1,23 @@
 <div align="center">
 
-# Hi, I'm Naima Rahman 👋
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naima+Rahman+%F0%9F%91%8B"
+    alt="Typing SVG"
+  />
+</a>
 
 ### Full-Stack Software Developer
 
 <p>
-  Building web applications across the frontend, backend, and database layers.
+  Building responsive, database-driven web applications across the frontend and backend.
   <br/>
-  Interested in clean architecture, responsive interfaces, and practical software solutions.
+  Focused on developing practical, scalable, and user-friendly software solutions.
 </p>
+
+</div>
 
 <p>
   <a href="https://github.com/Naima006">
@@ -26,33 +35,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Software Engineering student and Full-Stack Software Developer** from Bangladesh, focused on building practical web applications and improving my skills across the software development stack.
+I'm a **Full-Stack Software Developer** and Software Engineering student with hands-on experience building web applications, management systems, interactive interfaces, and database-driven solutions.
 
-My projects span from responsive frontend interfaces and single-page applications to database-driven systems and full-stack web applications.
+My recent development work has focused on **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Vite**, with previous experience across **React, MERN, Java, Python, C/C++, Flutter, and SQL**.
 
-Recently, my work has focused heavily on **Vue.js, Laravel, PHP, JavaScript, Bootstrap, MySQL, and modern web development workflows**, while my earlier projects include **React, MERN, Java, Python, Flutter/Dart, C++, and SQL**.
+I enjoy working across the full development process — from designing responsive interfaces and implementing application logic to managing databases and integrating different parts of a system.
 
-I enjoy taking an idea from **interface → application logic → database → working product**, while keeping usability, responsiveness, and maintainability in mind.
+I'm particularly interested in writing maintainable code, improving user experience, and turning requirements into functional software.
 
 ---
 
-## 🧰 Tech Stack
-
-### Languages
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
-</div>
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -76,16 +71,20 @@ I enjoy taking an idea from **interface → application logic → database → w
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 
 </div>
 
-### Mobile & Design
+### Other Technologies
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 
 </div>
 
@@ -96,6 +95,7 @@ I enjoy taking an idea from **interface → application logic → database → w
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
@@ -104,124 +104,32 @@ I enjoy taking an idea from **interface → application logic → database → w
 
 ---
 
-## 🚀 What I Build
+## 💻 Development Focus
 
-My repositories reflect a progression from programming fundamentals and desktop applications to modern web and full-stack development.
+My recent work has primarily involved:
 
-### 🌐 Full-Stack Web Applications
+* **Full-stack web application development**
+* **Vue.js single-page applications**
+* **Laravel & PHP development**
+* **REST API and database integration**
+* **MySQL database design and CRUD operations**
+* **Responsive frontend development**
+* **Authentication and application workflows**
+* **E-commerce functionality**
+* **Administrative and management systems**
+* **UI implementation and interface refinement**
 
-Building applications with frontend interfaces, backend logic, database integration, authentication, CRUD operations, and business workflows.
-
-**Technologies:** Laravel · PHP · MySQL · JavaScript · React · MERN
-
-### ⚡ Modern Frontend Applications
-
-Developing responsive and interactive web interfaces with component-based architectures and modern tooling.
-
-**Technologies:** Vue.js · React · JavaScript · HTML · CSS · Bootstrap · Tailwind CSS · Vite
-
-### 🗄️ Database-Driven Systems
-
-Designing applications around structured data, CRUD operations, relationships, search, filtering, and management workflows.
-
-**Technologies:** MySQL · SQL · PHP · Laravel
-
-### 🎨 Interface & User Experience
-
-Creating responsive interfaces with attention to layout, usability, consistency, and visual hierarchy.
-
-**Tools:** Figma · Bootstrap · CSS · Tailwind CSS
+I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++** through previous academic and personal development work.
 
 ---
 
-## 📌 Selected Projects
-
-### 🎓 Exam Seat Management System
-
-A Laravel-based examination seat management system developed to automate student seat allocation and administrative workflows.
-
-**Stack:** Laravel · PHP · MySQL · Blade · JavaScript · Bootstrap
-
-**Highlights:**
-• Automated seat allocation
-• Exam, course, department and shift management
-• Student and invigilator workflows
-• Database-driven administration
-• Search and filtering functionality
-
----
-
-### 🛍️ PrimeGadget
-
-A modern responsive gadget e-commerce application built with Vue.js.
-
-**Stack:** Vue.js · JavaScript · Vite · CSS · Local Storage
-
-**Highlights:**
-• Product browsing and filtering
-• Shopping cart CRUD
-• Quantity management
-• Checkout flow
-• Order history
-• Profile and authentication UI
-• Responsive modern interface
-
----
-
-### 🇧🇩 Bangladesh Administrative Area
-
-An interactive Vue.js application for exploring Bangladesh's administrative geography using geocode data.
-
-**Stack:** Vue.js · JavaScript · Vite · Leaflet · REST API
-
-**Highlights:**
-• Administrative area exploration
-• Interactive maps
-• Geographic coordinates
-• Component-based Vue architecture
-• Responsive interface
-
----
-
-### 💰 Financial Web App
-
-A full-stack accounting application developed with a React + Vite frontend and PHP backend.
-
-**Stack:** React · Vite · JavaScript · PHP · MySQL
-
-**Features:**
-• Journal entries
-• Ledger management
-• Trial balance
-• Financial reporting
-
----
-
-### 📰 Web & Frontend Projects
-
-I've also worked on several responsive web projects including news portals, blog platforms, payment interfaces, portfolios, CRUD applications, and management systems using:
-
-**HTML · CSS · JavaScript · Bootstrap · PHP · MySQL**
-
----
-
-## 📈 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naima006&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Naima's GitHub Streak" />
-
-<br/><br/>
-
-### 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Naima's GitHub Stats" />
 
 <br/><br/>
-
-### 💻 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Naima's Most Used Languages" />
 
@@ -229,30 +137,39 @@ I've also worked on several responsive web projects including news portals, blog
 
 ---
 
-## 📅 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naima006&theme=tokyo-night&hide_border=true&area=true" alt="Naima's Contribution Activity" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naima006&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Naima's GitHub Contribution Streak" />
+
+</div>
+
+> **Activity focus:** June 2026 → Present
+
+---
+
+## 📅 Development Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naima006&theme=tokyo-night&hide_border=true&area=true&custom_title=Development%20Activity%20%7C%20June%202026%20-%20Present" alt="Naima's Development Activity" />
 
 </div>
 
 ---
 
-## 🎯 Current Direction
+## 📚 Currently Growing
 
-I'm continuing to grow as a **full-stack software developer**, with my recent development work increasingly focused on:
+I'm continuously strengthening my full-stack development skills through practical projects and hands-on development.
 
-* Building complete web applications with **Vue.js and Laravel**
-* Developing responsive and maintainable frontend interfaces
-* Working with **PHP, MySQL, JavaScript, and REST APIs**
-* Improving application architecture and code organization
-* Building practical systems around real-world workflows
-* Strengthening full-stack development and software engineering fundamentals
+**Current focus:**
+
+`Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Git/GitHub` · `Responsive UI`
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -266,12 +183,10 @@ I'm continuing to grow as a **full-stack software developer**, with my recent de
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### Thanks for visiting my profile 👋
-
-<sub>Always learning. Always building. Always improving.</sub>
+<sub>Building practical software. Learning continuously. Improving with every project.</sub>
 
 </div>
