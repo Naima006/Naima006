@@ -141,23 +141,22 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 <div align="center">
 
-<!-- GitHub Contribution Heatmap -->
-<img src="https://ghchart.rshah.org/38BDF8/Naima006" alt="GitHub Contribution Heatmap" width="100%" />
-
-<br/>
-
-<!-- GitHub Activity Stats -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naima006&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=161B22&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" alt="Contribution Activity Timeline" />
+<!-- GitHub Contribution Heatmap - Reliable Service -->
+<img src="https://ghchart.rshah.org/38BDF8/Naima006" alt="Contribution Heatmap" style="max-width: 100%;" />
 
 <br/>
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D" alt="GitHub Stats" />
+<a href="https://github.com/Naima006">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naima006&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="GitHub Stats" style="max-width: 100%;" />
+</a>
 
 <br/>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" alt="Most Used Languages" />
+<a href="https://github.com/Naima006">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naima006&layout=compact&theme=github_dark&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Most Used Languages" style="max-width: 100%;" />
+</a>
 
 <br/>
 
