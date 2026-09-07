@@ -163,7 +163,6 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 </a>
 
 </div>
----
 
 ## 📚 Currently Growing
 
