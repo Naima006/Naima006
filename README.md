@@ -12,9 +12,9 @@
 ### Full-Stack Software Developer
 
 <p>
-  Building responsive, database-driven web applications across the frontend and backend.
+  Building responsive, database-driven web applications and scalable multi-tenant platforms.
   <br/>
-  Focused on developing practical, scalable, and user-friendly software solutions.
+  Focused on clean architecture, intuitive UX, and practical software solutions.
 </p>
 
 </div>
@@ -37,13 +37,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** and Software Engineering student with hands-on experience building web applications, management systems, interactive interfaces, and database-driven solutions.
+I'm a **Full-Stack Software Developer** and Software Engineering student with hands-on experience building production-grade web applications, multi-tenant SaaS systems, interactive interfaces, and database-driven solutions.
 
-My recent development work has focused on **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Vite**, with previous experience across **React, MERN, Java, Python, C/C++, Flutter, and SQL**.
+My primary development stack is centered around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Vite**, complemented by project experience in **React, Node.js, MongoDB (MERN), Java, Python, C/C++, Flutter, and SQL**.
 
-I enjoy working across the full development process — from designing responsive interfaces and implementing application logic to managing databases and integrating different parts of a system.
+I enjoy working across the complete development lifecycle — from architecting database schemas and designing RESTful APIs to crafting responsive, accessible user interfaces.
 
-I'm particularly interested in writing maintainable code, improving user experience, and turning requirements into functional software.
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Path2Study | Multi-Tenant SaaS CRM</h3>
+      <p>
+        End-to-end CRM for study-abroad consultancies. Organisations manage leads, students, applications, and documents from enquiry through admission, with a separate student portal and central platform admin.
+      </p>
+      <ul>
+        <li><strong>Multi-tenancy:</strong> One database per organisation, subdomain routing, and plan-based limits on staff, students, and storage.</li>
+        <li><strong>Operations:</strong> Lead intent scoring (HOT / WARM / COLD), student readiness and document vault progress, 8-stage application pipeline, and scholarship handling with country-based currency defaults.</li>
+        <li><strong>Portals:</strong> Staff CRM, student self-service, public tenant landing with consultation form, and Super Admin for organisations, plans, and billing.</li>
+        <li><strong>Stack:</strong> <code>Laravel</code>, <code>Vue 3</code>, <code>Pinia</code>, <code>MySQL</code>, <code>Sanctum</code>, <code>stancl/tenancy</code>, <code>Tailwind CSS</code>, <code>Vite</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍️ TechSpace — Full-Stack Publishing Platform</h3>
+      <p>A complete blogging and article management system built to master core web architecture, session lifecycles, and database modeling.</p>
+      <ul>
+        <li><strong>Architecture:</strong> Multi-role authorization (Visitor, Author workspace, Admin moderation).</li>
+        <li><strong>Key Features:</strong> Live debounced search, rich markdown preview, view analytics, and custom glassmorphic styling.</li>
+        <li><strong>Tech Stack:</strong> <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,8 +102,10 @@ I'm particularly interested in writing maintainable code, improving user experie
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 
 </div>
@@ -109,17 +144,13 @@ I'm particularly interested in writing maintainable code, improving user experie
 My recent work has primarily involved:
 
 * **Full-stack web application development**
+* **Multi-tenant SaaS architecture & database segregation**
 * **Vue.js single-page applications**
-* **Laravel & PHP development**
-* **REST API and database integration**
-* **MySQL database design and CRUD operations**
-* **Responsive frontend development**
-* **Authentication and application workflows**
-* **E-commerce functionality**
-* **Administrative and management systems**
-* **UI implementation and interface refinement**
-
-I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++** through previous academic and personal development work.
+* **Laravel & PHP REST API development**
+* **MySQL schema design, relations, and indexing**
+* **Responsive frontend development (Bootstrap & Tailwind CSS)**
+* **Role-based access control (RBAC) and authentication workflows**
+* **Data pipelines, scoring algorithms, and analytics dashboards**
 
 ---
 
@@ -131,6 +162,7 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
   <a href="https://github.com/Naima006"><img src="https://img.shields.io/github/followers/Naima006?style=flat-square&color=38BDF8" alt="Followers" /></a>
   <a href="https://github.com/Naima006/Naima006"><img src="https://img.shields.io/github/last-commit/Naima006/Naima006?style=flat-square&color=0284C7" alt="Last Commit" /></a>
   <a href="https://github.com/Naima006?tab=repositories"><img src="https://img.shields.io/badge/Repositories-29-0284C7?style=flat-square" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Naima006&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
@@ -164,13 +196,15 @@ I also have experience with **React/MERN, Java, Python, Flutter/Dart, C, and C++
 
 </div>
 
+---
+
 ## 📚 Currently Growing
 
 I'm continuously strengthening my full-stack development skills through practical projects and hands-on development.
 
 **Current focus:**
 
-`Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Git/GitHub` · `Responsive UI`
+`Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Multi-Tenancy` · `Responsive UI`
 
 ---
 
