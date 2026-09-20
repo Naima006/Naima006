@@ -41,7 +41,7 @@ I'm a **Full-Stack Software Developer** and Software Engineering student with ha
 
 My primary development stack is centered around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Vite**, complemented by project experience in **React, Node.js, MongoDB (MERN), Java, Python, C/C++, Flutter, and SQL**.
 
-I enjoy working across the complete development lifecycle — from architecting database schemas and designing RESTful APIs to crafting responsive, accessible user interfaces.
+I enjoy working across the complete development lifecycle from architecting database schemas and designing RESTful APIs to crafting responsive, accessible user interfaces.
 
 ---
 
