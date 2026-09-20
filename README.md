@@ -61,7 +61,17 @@ I enjoy working across the complete development lifecycle — from architecting 
         <li><strong>Stack:</strong> <code>Laravel</code>, <code>Vue 3</code>, <code>Pinia</code>, <code>MySQL</code>, <code>Sanctum</code>, <code>stancl/tenancy</code>, <code>Tailwind CSS</code>, <code>Vite</code></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <h3>💰 FinanceFlow | Full-Stack Accounting System</h3>
+      <p>Accounting web app for small businesses, covering journal entries, ledgers, trial balance, and core financial reporting.</p>
+      <ul>
+        <li><strong>Operations:</strong> Double-entry bookkeeping, automated ledger generation, and report views for income and balance sheet summaries.</li>
+        <li><strong>Workflow:</strong> Secure user authentication, protected routes, and responsive dashboards for day-to-day financial tracking.</li>
+        <li><strong>Stack:</strong> <code>React</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>PHP</code>, <code>MySQL</code>, <code>Firebase Auth</code></li>
+      </ul>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <td width="50%" valign="top">
       <h3>✍️ TechSpace | Full-Stack Publishing Platform</h3>
       <p>Content platform for technology articles with public reading, author workflows, and admin moderation.</p>
       <ul>
@@ -70,16 +80,6 @@ I enjoy working across the complete development lifecycle — from architecting 
         <li><strong>Tech Stack:</strong> <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>💰 FinanceFlow | Full-Stack Accounting System</h3>
-      <p>Accounting web app for small businesses, covering journal entries, ledgers, trial balance, and core financial reporting.</p>
-      <ul>
-        <li><strong>Operations:</strong> Double-entry bookkeeping, automated ledger generation, and report views for income and balance sheet summaries.</li>
-        <li><strong>Workflow:</strong> Secure user authentication, protected routes, and responsive dashboards for day-to-day financial tracking.</li>
-        <li><strong>Stack:</strong> <code>React</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>PHP</code>, <code>MySQL</code>, <code>Firebase Auth</code></li>
-      </ul>
     </td>
   </tr>
 </table>
